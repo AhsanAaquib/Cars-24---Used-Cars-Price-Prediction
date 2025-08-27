@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+pickle-mixin
+matplotlib
+seaborn
+randomforest
+linearregression
