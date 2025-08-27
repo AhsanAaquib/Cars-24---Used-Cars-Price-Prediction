@@ -6,5 +6,3 @@ joblib
 pickle-mixin
 matplotlib
 seaborn
-randomforest
-linearregression
